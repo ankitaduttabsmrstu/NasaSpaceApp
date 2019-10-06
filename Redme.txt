@@ -1,0 +1,27 @@
+"SpaceOut"
+Space out is an interactive VR simulation game made in unity.
+
+Description:
+The game consists of Virtual reality scenes made with Unity 2018.3.14f version game engine.
+The game shows a realistic view of the whole Solar system and the planets inside it.
+This also includes the orbit spin physics and gravitational physics of the planets.
+This also shows other solar systems beside our own in the "Milky way galaxy".
+
+Softwares:
+The used softwares for this project are
+
+->For 3D models: Blender.
+->For making environments: Unity 2018.3.14f
+->For making textures; Photoshop
+->For data: Nasa official website
+
+Features of the project:
+
+-> An interactive virtual reality environment for the space and the solar system.
+-> A fun game for every age group to enjoy.
+-> Customizable game mechanics for the player to make planets and environemnts as they want.
+
+Future plans: 
+-> Make a fully finctioning game for every platform.
+-> Include as many data as possible for the players to 
+   experience an informative environment.
